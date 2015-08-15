@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Cgmadness
+GenericName=Marble Madness clone
+Exec=cgmadness
+Icon=/usr/share/pixmaps/cgmadness.png
+Categories=Game;ArcadeGame
